@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rogger190
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on peer programming
 - 📫 You can reach out to me on Linkedin
 
